@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: ￥ﾰﾏ￥ﾜﾷ ￥ﾭﾝ￥ﾍﾓ
+Build-Jdk: 10.0.1
+Implementation-Title: user-management-t5-koakutsuk-web
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.example.user.management
+Implementation-Vendor: TERASOLUNA Framework Team
+Created-By: Maven Integration for Eclipse
+
